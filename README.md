@@ -1,8 +1,11 @@
 # django-vue-chat
 Minimal chat web application on vue/django
 
-Here i'm use:
+In this project i'm use:
 - Vue.js
 - Django
-- Django REST framework
 - Django Channels
+- Redis
+
+### For start
+`daphne config.asgi:application` - backend
