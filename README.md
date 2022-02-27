@@ -7,5 +7,5 @@
 - Redis
 
 ### For start
-`daphne config.asgi:application` - backend
+`daphne config.asgi:application` - backend<br/>
 `docker run --name django-vue-chat -p 6379:6379 -d redis` - redis
