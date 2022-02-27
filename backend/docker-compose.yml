@@ -1,0 +1,10 @@
+version: "3.9"
+   
+services:
+  django:
+    build: .
+    command: daphne config.asgi:application
+    volumes:
+      - .:/backend
+    ports:
+      - "8000:8000"
