@@ -1,7 +1,5 @@
 ## Minimal chat web application on vue/django
 
-*In this project i'm use:*
-
 *Front-end*
 - Vue.js
 
@@ -15,5 +13,9 @@
 
 ### For start
 *backend*
-- `cd backend`
+- `cd backend/`
 - `docker-compose up`
+
+*backend*
+- `cd frontend/`
+- `npm run serve`
