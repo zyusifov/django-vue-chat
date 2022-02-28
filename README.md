@@ -1,16 +1,12 @@
 ## Minimal chat web application on vue/django
 
-*In this project i'm use:*
-
-*Front-end*
+Front-end
 - Vue.js
-
-*Back-end*
+Back-end
 - Django
 - Django Channels
 - Redis
-
-*Deploy*
+Deploy
 - Docker
 
 ### For start
