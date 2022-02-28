@@ -13,5 +13,9 @@
 
 ### For start
 *backend*
-- `cd backend`
+- `cd backend/`
 - `docker-compose up`
+
+*backend*
+- `cd frontend/`
+- `npm run serve`
