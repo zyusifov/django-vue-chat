@@ -1,11 +1,17 @@
 ## Minimal chat web application on vue/django
 
-*In this project i'm use:*
+*Front-end*
 - Vue.js
+
+*Back-end*
 - Django
 - Django Channels
 - Redis
 
+*Deploy*
+- Docker
+
 ### For start
-`daphne config.asgi:application` - backend
-`docker run --name django-vue-chat -p 6379:6379 -d redis` - redis
+*backend*
+- `cd backend`
+- `docker-compose up`
