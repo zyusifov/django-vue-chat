@@ -16,6 +16,6 @@
 - `cd backend/`
 - `docker-compose up`
 
-*backend*
+*frontend*
 - `cd frontend/`
 - `npm run serve`
